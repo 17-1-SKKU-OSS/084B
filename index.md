@@ -2,7 +2,9 @@
 We can do every thing together. Nothing can tear us apart.
 
 Park Jongwon, 2011313233, Dep. of Germanistik & Computer Science
+
 Seo Jeongmin, 2013312841, Dep. of Computer Science
+
 Lee Sangheon, 2013312343, Dep. of Computer Science
 
 You can use the [editor on GitHub](https://github.com/17-1-SKKU-OSS/084B/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
