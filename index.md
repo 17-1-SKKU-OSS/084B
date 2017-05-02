@@ -1,4 +1,5 @@
-## GOD PJW SJM
+## 084B PJW SJM LSH
+We can do every thing together. Nothing can tear us apart.
 
 You can use the [editor on GitHub](https://github.com/17-1-SKKU-OSS/084B/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
