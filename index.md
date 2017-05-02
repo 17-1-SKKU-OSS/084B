@@ -1,4 +1,4 @@
-## GOD 88 jo
+## GOD PJW SJM LSH
 
 You can use the [editor on GitHub](https://github.com/17-1-SKKU-OSS/084B/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
