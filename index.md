@@ -1,4 +1,4 @@
-# 084B PJW SJM LSH
+# Pandas 084B
 
 ## 1. 팀원 및 소개
 
